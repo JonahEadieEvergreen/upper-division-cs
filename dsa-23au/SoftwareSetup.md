@@ -61,15 +61,13 @@ drop-down button.
 
 `https://github.com/<user-name>/upper-division-cs`
 
-Add the following path, notificing that the directories `dsa-23au` (meaning Data Structures & Algorithms, Autumn 2023)
-and `scripts` already exist, and you are simply creating a new file called `git-config.sh`
+Edit the file named git-config.sh located in the 
 
 ```
-./dsa-23au/scripts/git-config.sh`
-```
+/workspace/upper-division-c/scripts`
+``` 
 
-In this file, paste the no-reply email address that you copied previous in Step 4.
-Then click "Commit changes" so that this email address is saved for future use.
+directory, replacing the given anonymized email with your own. You shoud have acquired this in the previous step. You can edit the file by opening it within the Github file browser view of the repository and then clicking on the edit icon toward the right side of the screen, labeled with a pencil. Then click "Commit changes" so that this email address is saved for future use.
 
 Don't worry, this is not a real email address, and this is a private repo, so you are not revealing anything
 unsafe by saving it here.
